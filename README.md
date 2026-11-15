@@ -41,7 +41,6 @@ Lean e Six Sigma em sequência, começando pelo Lean, com a disciplina de mediç
 | `imagens/` | Mapa de fluxo de valor e diagrama de Ishikawa |
 
 ## Autora
-Autora
 
 Gabriela Piccinini
 
