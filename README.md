@@ -14,6 +14,20 @@ A MedSupply (R$ 480 milhões de faturamento anual) recebe reclamações porque o
 4. Diagrama de Ishikawa e as três causas-raiz mais prováveis.
 5. Decisão fundamentada entre Lean, Six Sigma ou combinação.
 6. Plano de ação priorizado, com projeção de impacto e pedidos ao comitê.
+   
+## Diagnóstico visual
+
+### Mapa de fluxo de valor — estado atual
+
+![Mapa de fluxo de valor do processo Order-to-Invoice](imagens/mapa-fluxo-de-valor.png)
+
+### Diagrama de Ishikawa — análise de causas
+
+![Diagrama de Ishikawa do processo Order-to-Invoice](imagens/diagrama-ishikawa.png)
+
+## Relatório executivo completo
+
+[Consultar o relatório executivo em PDF](relatorio/MedSupply_Relatorio_Executivo_Final.pdf)
 
 ## Principais achados
 
