@@ -41,5 +41,15 @@ Lean e Six Sigma em sequência, começando pelo Lean, com a disciplina de mediç
 | `imagens/` | Mapa de fluxo de valor e diagrama de Ishikawa |
 
 ## Autora
+Autora
 
-Gabriela Piccinini. Advogada com atuação em direito empresarial e mais de 18 anos no setor de transporte de passageiros, com foco em excelência operacional.
+Gabriela Piccinini
+
+Profissional com mais de 18 anos de experiência em gestão de operações complexas, liderança de equipes e fornecedores, estruturação de processos e gestão de resultados.
+
+Com formação em Direito, especialização em Direito Empresarial e MBAs em Gestão de Negócios e Gestão Estratégica, Excelência Operacional e Métodos Ágeis (em andamento), direciona sua atuação à melhoria contínua, governança, eficiência operacional e tomada de decisão orientada por dados.
+
+Acredito que a excelência operacional começa pela compreensão dos processos, mas se concretiza na capacidade de transformar diagnósticos em decisões e decisões em resultados sustentáveis.
+
+Este projeto integra meu portfólio de estudos aplicados e traduz essa visão: utilizar dados, pensamento crítico e metodologias estruturadas para identificar oportunidades de melhoria e fundamentar decisões de gestão.
+
